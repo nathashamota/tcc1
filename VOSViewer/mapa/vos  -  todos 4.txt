@@ -1,0 +1,9 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+30	costs	-0.5163	0.364	1	7	39	8	2024	35	1
+50	dynamic pricing	0.565	0.4447	1	7	34	8	2024	36.25	1.5
+52	e-commerce	0.8396	-0.188	1	7	26	6	2023.8333	40	1.7348
+59	electronic commerce	-0.3387	-0.6403	1	7	25	5	2023.8	36	0.9636
+84	learning systems	-0.8377	-0.1303	1	7	24	6	2024.5	16.6667	0.5303
+89	machine-learning	0.3237	-0.5808	1	7	37	9	2024.1111	26.6667	1.1566
+126	pricing strategy	-0.0591	0.7352	1	7	31	7	2023.7143	32.7143	1.1429
+148	sales	0.0234	-0.0045	1	7	36	8	2024.125	30	1.3011
