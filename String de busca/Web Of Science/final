@@ -1,0 +1,8 @@
+TS=("Pricing Strategies" OR "pricing strategy" OR "pricing model" OR "cost-based pricing" OR "competitor-based pricing" OR "value-based pricing") 
+AND TS=("artificial intelligence" OR "neural network" OR "machine learning")
+AND TS=("Retail" OR "e-commerce" OR "ecommerce" OR "Sale")
+AND PY=(2020-2025)
+AND (DT=("Proceedings Paper") OR DT=("Article"))
+AND (SU=("Computer Science") OR SU=("Mathematics") OR SU=("Business & Economics") OR SU=("Operations Research & Management Science") OR SU=("Economics"))
+AND LA=("English")
+AND (TS=("Sales") OR TS=("Machine Learning") OR TS=("Machine-learning") OR TS=("Pricing Strategy") OR TS=("Dynamic Pricing") OR TS=("Artificial Intelligence") OR TS=("Neural-networks") OR TS=("Learning Algorithms") OR TS=("Adversarial Machine Learning") OR TS=("Deep Learning") OR TS=("E- Commerces") OR TS=("E-commerce"))
